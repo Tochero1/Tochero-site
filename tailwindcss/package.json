@@ -1,0 +1,25 @@
+{
+  "name": "tailwindcss",
+  "version": "1.0.0",
+  "description": "",
+  "main": "tailwind.config.js",
+  "scripts": {
+    "start": "npx tailwindcss -i ./src/input.css -o ./dist/output.css --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tochero/clone-projects.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tochero/clone-projects/issues"
+  },
+  "homepage": "https://github.com/tochero/clone-projects#readme",
+  "dependencies": {
+    "favicon": "^0.0.2",
+    "remixicon": "^4.0.1",
+    "swiper": "^11.0.5"
+  }
+}
